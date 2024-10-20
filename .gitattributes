@@ -1,1 +1,2 @@
 D:/unity[[:space:]]PACKAGE/testAR/Build/testAR.wasm filter=lfs diff=lfs merge=lfs -text
+*.wasm filter=lfs diff=lfs merge=lfs -text
